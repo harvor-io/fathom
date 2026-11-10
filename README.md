@@ -1,3 +1,5 @@
+<img src="icon.png" alt="fathom icon" width="128">
+
 # fathom
 
 <a href="https://readme.exalynt.com/how-it-works/stability-levels#stability-prototype"><picture>
