@@ -1,6 +1,14 @@
 # fathom
 
+<a href="https://readme.exalynt.com/how-it-works/stability-levels#stability-prototype"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://design.exalynt.io/stability/prototype-extra-long-dark.svg">
+  <img src="https://design.exalynt.io/stability/prototype-extra-long-light.svg" alt="Stability: Prototype · Exploring" height="18">
+</picture></a>
+
 A CLI tool for measuring how services scale under load, fitting Universal Scalability Law (USL) curves, and generating reproducible capacity reports.
+
+> [!WARNING]
+> fathom is a **Prototype**, one of Exalynt's [stability levels](https://readme.exalynt.com/how-it-works/stability-levels). It explores an idea so we can choose a direction. Anything can change, or it may be thrown away. Only `fathom run` and `fathom fit` are expected to work. Try it and tell us what you think, but don't base real capacity decisions on its estimates, and don't build on it.
 
 ## Usage
 
